@@ -1,0 +1,25 @@
+{
+  "name": "jwt-angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "SuThaw"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SuThaw/jwt-angular-auth",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.5.0",
+    "angular-ui-router": "ui-router#~0.2.18",
+    "angular-resource": "~1.5.0"
+  }
+}
